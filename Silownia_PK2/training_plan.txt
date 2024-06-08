@@ -1,0 +1,2 @@
+PONIEDZIALEK
+Barbell_Overhead_Press,3,Barki,PUSH

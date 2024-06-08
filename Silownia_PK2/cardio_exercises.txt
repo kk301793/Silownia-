@@ -1,0 +1,10 @@
+bieganie,2,mala
+skakanie,3,mala
+wspinanie,5,duza
+czolganie,1,mala
+hulahop,2,srednia
+chrapanie,1,mala
+raka,1,mala
+fiki,4,duza
+Barbell_Rows_Outs,3,srednia
+k,2,d
